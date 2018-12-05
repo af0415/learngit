@@ -1,1 +1,2 @@
-add env1 in git_test dir!
+add env1 in git_test dir! 
+and conflicts is fixed.
